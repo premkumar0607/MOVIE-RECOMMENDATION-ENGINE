@@ -32,13 +32,12 @@ A selectbox allows the user to choose a movie. When the user clicks the "Show Re
 
 Dataset
 
-The dataset used in this project can be downloaded from the Kaggle TMDb Movie Metadata page: Kaggle TMDb Movie Metadata
-
+The dataset used in this project can be downloaded from the Kaggle TMDb Movie Metadata page: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download
 Download the dataset or extract the required data from the .rar file. Place it in the project repository and use it as per the instructions in the code.
 
 TMDb API
 
-This project uses the TMDb API to fetch additional data such as movie posters. You will need to create an API key from TMDb to use this functionality. Visit the TMDb API for more information: TMDb API
+This project uses the TMDb API to fetch additional data such as movie posters. You will need to create an API key from TMDb to use this functionality. Visit the TMDb API for more information: https://developer.themoviedb.org/v4/reference/intro/getting-started
 
 File Requirements
 
