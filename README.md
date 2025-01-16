@@ -1,4 +1,4 @@
-Movie Recommender System
+**Movie Recommender System**
 
 This project is a **Movie Recommender System** built using **Streamlit**. The app suggests movies based on the similarity between them using a pre-trained model. The movie data is fetched from **The Movie Database (TMDb)** API, and movie posters are displayed along with recommendations.
 
