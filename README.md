@@ -71,4 +71,4 @@ The movie data is provided by The Movie Database (TMDb). This product uses the T
 
 Note: Ensure that you adhere to TMDb's terms of service when using the API in your project.
 
-© 2024 Prem Kumar. All rights reserved.
+© 2025 Prem Kumar. All rights reserved.
